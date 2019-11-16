@@ -1,2 +1,2 @@
-# automating-aws-python
+# automating-aws-python to learn 
 python lessons
